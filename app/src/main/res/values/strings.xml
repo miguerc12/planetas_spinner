@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">lista_planetas_Migue</string>
+
+    <string-array name="planets_array">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Júpiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+    </string-array>
+
+    <string name="mercury_description">Mercurio es el planeta más cercano al Sol y el más pequeño del sistema solar.</string>
+    <string name="venus_description">Venus es el segundo planeta del sistema solar y es similar en tamaño y estructura a la Tierra.</string>
+    <string name="earth_description">La Tierra es el tercer planeta del sistema solar y el único planeta conocido que tiene vida.</string>
+    <string name="mars_description">Marte es el cuarto planeta del sistema solar y es conocido como el planeta rojo debido a su superficie rocosa.</string>
+    <string name="jupiter_description">Júpiter es el quinto planeta del sistema solar y es el más grande de todos, conocido por sus bandas de nubes y su Gran Mancha Roja.</string>
+    <string name="saturn_description">Saturno es el sexto planeta del sistema solar, famoso por sus prominentes anillos.</string>
+    <string name="uranus_description">Urano es el séptimo planeta del sistema solar y tiene un eje de rotación único que está inclinado casi de lado.</string>
+    <string name="neptune_description">Neptuno es el octavo y último planeta del sistema solar, conocido por sus intensos vientos y su color azul profundo.</string>
+</resources>
